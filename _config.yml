@@ -1,0 +1,28 @@
+name: Adorable horses
+favicon: null
+layout_spectrum: 0.9675354328937829
+typography_spectrum: 0.9300942530389875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6988776533398777
+  lightness: 0.6705970987677574
+  saturation: 0.9455378442071378
+  rhythmicContrast: 0.7858150242827833
+purpose: []
